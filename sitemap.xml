@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://blog.beagleworks.net/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.beagleworks.net/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.beagleworks.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/info/</loc>
+    <loc>https://blog.beagleworks.net/tags/info/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.beagleworks.net/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://blog.beagleworks.net/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.beagleworks.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.beagleworks.net/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.beagleworks.net/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/a/</loc>
+    <loc>https://blog.beagleworks.net/posts/a/</loc>
   </url>
 </urlset>

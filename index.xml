@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>QUIET QUALIA</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.beagleworks.net/</link>
     <description>Recent content on QUIET QUALIA</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja-JP</language>
     <copyright>2025 Beagle Works</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.beagleworks.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://blog.beagleworks.net/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://blog.beagleworks.net/about/</guid>
       <description>about</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://blog.beagleworks.net/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://blog.beagleworks.net/projects/</guid>
       <description>projects</description>
     </item>
     <item>
       <title>tst</title>
-      <link>http://localhost:1313/posts/a/</link>
+      <link>https://blog.beagleworks.net/posts/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a/</guid>
+      <guid>https://blog.beagleworks.net/posts/a/</guid>
       <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;
 &lt;p&gt;test&lt;/p&gt;
 &lt;h2 id=&#34;tests&#34;&gt;tests&lt;/h2&gt;
