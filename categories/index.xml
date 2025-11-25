@@ -4,6 +4,11 @@
     <title>Categories on QUIET QUALIA</title>
     <link>https://blog.beagleworks.net/categories/</link>
     <description>Recent content in Categories on QUIET QUALIA</description>
+    <image>
+      <title>QUIET QUALIA</title>
+      <url>https://blog.beagleworks.net/beagle.png</url>
+      <link>https://blog.beagleworks.net/beagle.png</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja-JP</language>
     <copyright>2025 Beagle Works</copyright>

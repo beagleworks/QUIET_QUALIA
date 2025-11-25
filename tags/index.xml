@@ -4,15 +4,28 @@
     <title>Tags on QUIET QUALIA</title>
     <link>https://blog.beagleworks.net/tags/</link>
     <description>Recent content in Tags on QUIET QUALIA</description>
+    <image>
+      <title>QUIET QUALIA</title>
+      <url>https://blog.beagleworks.net/beagle.png</url>
+      <link>https://blog.beagleworks.net/beagle.png</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja-JP</language>
     <copyright>2025 Beagle Works</copyright>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.beagleworks.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
       <link>https://blog.beagleworks.net/tags/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.beagleworks.net/tags/info/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Site</title>
+      <link>https://blog.beagleworks.net/tags/site/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.beagleworks.net/tags/site/</guid>
       <description></description>
     </item>
   </channel>

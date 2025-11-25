@@ -4,19 +4,49 @@
     <title>Info on QUIET QUALIA</title>
     <link>https://blog.beagleworks.net/tags/info/</link>
     <description>Recent content in Info on QUIET QUALIA</description>
+    <image>
+      <title>QUIET QUALIA</title>
+      <url>https://blog.beagleworks.net/beagle.png</url>
+      <link>https://blog.beagleworks.net/beagle.png</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja-JP</language>
     <copyright>2025 Beagle Works</copyright>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.beagleworks.net/tags/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>tst</title>
-      <link>https://blog.beagleworks.net/posts/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/posts/a/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;
-&lt;p&gt;test&lt;/p&gt;
-&lt;h2 id=&#34;tests&#34;&gt;tests&lt;/h2&gt;
-&lt;p&gt;tets&lt;/p&gt;</description>
+      <title>サイト</title>
+      <link>https://blog.beagleworks.net/posts/0001/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.beagleworks.net/posts/0001/</guid>
+      <description>&lt;h2 id=&#34;サイト&#34;&gt;サイト…？&lt;/h2&gt;
+&lt;p&gt;はい。&lt;br&gt;
+Zennに技術記事を書いているので、Zennに載せないようなことを置いておく場所です。&lt;/p&gt;
+&lt;h2 id=&#34;quiet-qualia&#34;&gt;QUIET QUALIA&lt;/h2&gt;
+&lt;p&gt;サイト名です。&lt;br&gt;
+深い意味はないと思います。たぶん。&lt;/p&gt;
+&lt;h2 id=&#34;どうやってつくった&#34;&gt;どうやってつくった？&lt;/h2&gt;
+&lt;p&gt;Hugo + PaperMod&lt;br&gt;
+Hugoはカスタムしやすいので良いですね。わからなければAIに聞けばいいし。&lt;/p&gt;
+&lt;h2 id=&#34;主なカスタム内容備忘録&#34;&gt;主なカスタム内容(備忘録)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;はてなブックマークシェアボタン&lt;/li&gt;
+&lt;li&gt;Zenn風著者ブロック(記事下)&lt;/li&gt;
+&lt;li&gt;著者アイコン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;くらいだっけな…？&lt;/p&gt;
+&lt;h2 id=&#34;デプロイ&#34;&gt;デプロイ&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ブログつくってて&lt;br&gt;ローカル→GitHub→GitHub Action→ホスティングサーバー&lt;br&gt;と思ったけど、GitHub Action書きたくないので&lt;br&gt;&lt;br&gt;ローカル→GitHub &amp;amp;&amp;amp;&lt;br&gt;ローカル→SSH→ホスティングサーバーからgit pull&lt;br&gt;をdeploy\.shに書いて自動化でよさげ&lt;br&gt;&lt;br&gt;GitHub経由する意味があまりないのは気のせいなはず&lt;/p&gt;&amp;mdash; びーぐる (@beagle_dog_inu) &lt;a href=&#34;https://twitter.com/beagle_dog_inu/status/1992951526885900429?ref_src=twsrc%5Etfw&#34;&gt;November 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;サーバーを移転する可能性はゼロではないので、やはりGitHubにあげておくのは正解かと。&lt;/p&gt;
+&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aboutをつくる&lt;/li&gt;
+&lt;li&gt;Projectsをつくる&lt;/li&gt;
+&lt;li&gt;フォントや行間の調整&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
