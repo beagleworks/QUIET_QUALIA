@@ -12,8 +12,31 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>ja-JP</language>
     <copyright>2025 Beagle Works</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://blog.beagleworks.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2</title>
+      <link>https://blog.beagleworks.net/posts/0002/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0900</pubDate>
+      <guid>https://blog.beagleworks.net/posts/0002/</guid>
+      <description>&lt;p&gt;作業の合間に少し改装。&lt;/p&gt;
+&lt;h2 id=&#34;デザイン変更&#34;&gt;デザイン変更&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;フォントの変更&lt;/li&gt;
+&lt;li&gt;行間の調整&lt;/li&gt;
+&lt;li&gt;見出しデザインの変更&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;コンテンツや機能の追加&#34;&gt;コンテンツや機能の追加&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;aboutページの追加&lt;/li&gt;
+&lt;li&gt;検索機能の改善&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
+&lt;li&gt;projectsページの作成&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>サイト</title>
       <link>https://blog.beagleworks.net/posts/0001/</link>
