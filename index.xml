@@ -29,15 +29,23 @@
       <description>Zennでの記事</description>
     </item>
     <item>
+      <title>GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる</title>
+      <link>https://blog.beagleworks.net/projects/zen_article_0008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.beagleworks.net/projects/zen_article_0008/</guid>
+      <description>Zennでの記事</description>
+    </item>
+    <item>
       <title>Day 5</title>
       <link>https://blog.beagleworks.net/posts/0005/</link>
       <pubDate>Fri, 05 Dec 2025 09:45:46 +0900</pubDate>
       <guid>https://blog.beagleworks.net/posts/0005/</guid>
-      <description>&lt;p&gt;まだ続くDayシリーズ&lt;/p&gt;
+      <description>&lt;p&gt;残タスクも終わらせて、あとは埋めるだけ&lt;/p&gt;
 &lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;スマホ対応状況確認&lt;/li&gt;
 &lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
+&lt;li&gt;OGP画像の作成&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
