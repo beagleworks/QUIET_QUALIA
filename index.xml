@@ -1,64 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>QUIET QUALIA</title>
-    <link>https://blog.beagleworks.net/</link>
-    <description>Recent content on QUIET QUALIA</description>
-    <image>
-      <title>QUIET QUALIA</title>
-      <url>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</url>
-      <link>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>ja-JP</language>
-    <copyright>2025 Beagle Works</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 09:45:46 +0900</lastBuildDate>
-    <atom:link href="https://blog.beagleworks.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SDD(仕様駆動開発)と仕様について再度振り返る</title>
-      <link>https://blog.beagleworks.net/projects/zenn_article_0010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/projects/zenn_article_0010/</guid>
-      <description>Zennでの記事</description>
-    </item>
-    <item>
-      <title>Claude Code on the webを触ってみた</title>
-      <link>https://blog.beagleworks.net/projects/zenn_article_0009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/projects/zenn_article_0009/</guid>
-      <description>Zennでの記事</description>
-    </item>
-    <item>
-      <title>GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる</title>
-      <link>https://blog.beagleworks.net/projects/zen_article_0008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/projects/zen_article_0008/</guid>
-      <description>Zennでの記事</description>
-    </item>
-    <item>
-      <title>Day 5</title>
-      <link>https://blog.beagleworks.net/posts/0005/</link>
-      <pubDate>Fri, 05 Dec 2025 09:45:46 +0900</pubDate>
-      <guid>https://blog.beagleworks.net/posts/0005/</guid>
-      <description>&lt;p&gt;残タスクも終わらせて、あとは埋めるだけ&lt;/p&gt;
-&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>QUIET QUALIA</title><link>https://blog.beagleworks.net/</link><description>Recent content on QUIET QUALIA</description><image><title>QUIET QUALIA</title><url>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</url><link>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</link></image><generator>Hugo -- 0.152.2</generator><language>ja-JP</language><copyright>2025 Beagle Works</copyright><lastBuildDate>Fri, 05 Dec 2025 09:45:46 +0900</lastBuildDate><atom:link href="https://blog.beagleworks.net/index.xml" rel="self" type="application/rss+xml"/><item><title>SDD(仕様駆動開発)と仕様について再度振り返る</title><link>https://blog.beagleworks.net/projects/zenn_article_0010/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/projects/zenn_article_0010/</guid><description>Zennでの記事</description></item><item><title>Claude Code on the webを触ってみた</title><link>https://blog.beagleworks.net/projects/zenn_article_0009/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/projects/zenn_article_0009/</guid><description>Zennでの記事</description></item><item><title>GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる</title><link>https://blog.beagleworks.net/projects/zen_article_0008/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/projects/zen_article_0008/</guid><description>Zennでの記事</description></item><item><title>Day 5</title><link>https://blog.beagleworks.net/posts/0005/</link><pubDate>Fri, 05 Dec 2025 09:45:46 +0900</pubDate><guid>https://blog.beagleworks.net/posts/0005/</guid><description>&lt;p&gt;残タスクも終わらせて、あとは埋めるだけ&lt;/p&gt;
+&lt;h2 id="やったこと"&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;スマホ対応状況確認&lt;/li&gt;
 &lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
 &lt;li&gt;OGP画像の作成&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id="今後の予定"&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Projectsページの中身を書く&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Day 4</title>
-      <link>https://blog.beagleworks.net/posts/0004/</link>
-      <pubDate>Thu, 04 Dec 2025 12:29:20 +0900</pubDate>
-      <guid>https://blog.beagleworks.net/posts/0004/</guid>
-      <description>&lt;p&gt;一応完成でいいかな&lt;/p&gt;
-&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Day 4</title><link>https://blog.beagleworks.net/posts/0004/</link><pubDate>Thu, 04 Dec 2025 12:29:20 +0900</pubDate><guid>https://blog.beagleworks.net/posts/0004/</guid><description>&lt;p&gt;一応完成でいいかな&lt;/p&gt;
+&lt;h2 id="やったこと"&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;リンクカードの実装&lt;/li&gt;
 &lt;li&gt;Projectsページの作成
@@ -68,95 +19,62 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id="今後の予定"&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Projectsページのスタイル調整&lt;/li&gt;
 &lt;li&gt;Projectsページの中身を書く&lt;/li&gt;
 &lt;li&gt;スマホ対応状況確認&lt;/li&gt;
 &lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Day 3</title>
-      <link>https://blog.beagleworks.net/posts/0003/</link>
-      <pubDate>Wed, 03 Dec 2025 14:08:35 +0900</pubDate>
-      <guid>https://blog.beagleworks.net/posts/0003/</guid>
-      <description>&lt;p&gt;忙しかったのでちょっと間が空いてしまった&lt;br&gt;
+&lt;/ul&gt;</description></item><item><title>Day 3</title><link>https://blog.beagleworks.net/posts/0003/</link><pubDate>Wed, 03 Dec 2025 14:08:35 +0900</pubDate><guid>https://blog.beagleworks.net/posts/0003/</guid><description>&lt;p&gt;忙しかったのでちょっと間が空いてしまった&lt;br&gt;
 本格的な作業は明日&lt;/p&gt;
-&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;h2 id="やったこと"&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;aboutページの内容充実&lt;/li&gt;
 &lt;li&gt;Projectsページの計画&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id="今後の予定"&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
 &lt;li&gt;Projectsページの作成&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Day 2</title>
-      <link>https://blog.beagleworks.net/posts/0002/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0900</pubDate>
-      <guid>https://blog.beagleworks.net/posts/0002/</guid>
-      <description>&lt;p&gt;作業の合間に少し改装。&lt;/p&gt;
-&lt;h2 id=&#34;デザイン変更&#34;&gt;デザイン変更&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Day 2</title><link>https://blog.beagleworks.net/posts/0002/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0900</pubDate><guid>https://blog.beagleworks.net/posts/0002/</guid><description>&lt;p&gt;作業の合間に少し改装。&lt;/p&gt;
+&lt;h2 id="デザイン変更"&gt;デザイン変更&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;フォントの変更&lt;/li&gt;
 &lt;li&gt;行間の調整&lt;/li&gt;
 &lt;li&gt;見出しデザインの変更&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;コンテンツや機能の追加&#34;&gt;コンテンツや機能の追加&lt;/h2&gt;
+&lt;h2 id="コンテンツや機能の追加"&gt;コンテンツや機能の追加&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;aboutページの追加&lt;/li&gt;
 &lt;li&gt;検索機能の改善&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id="今後の予定"&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;シェアボタンの挙動の確認&lt;/li&gt;
 &lt;li&gt;projectsページの作成&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>サイト</title>
-      <link>https://blog.beagleworks.net/posts/0001/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/posts/0001/</guid>
-      <description>&lt;h2 id=&#34;サイト&#34;&gt;サイト…？&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>サイト</title><link>https://blog.beagleworks.net/posts/0001/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/posts/0001/</guid><description>&lt;h2 id="サイト"&gt;サイト…？&lt;/h2&gt;
 &lt;p&gt;はい。&lt;br&gt;
 Zennに技術記事を書いているので、Zennに載せないようなことを置いておく場所です。&lt;/p&gt;
-&lt;h2 id=&#34;quiet-qualia&#34;&gt;QUIET QUALIA&lt;/h2&gt;
+&lt;h2 id="quiet-qualia"&gt;QUIET QUALIA&lt;/h2&gt;
 &lt;p&gt;サイト名です。&lt;br&gt;
 深い意味はないと思います。たぶん。&lt;/p&gt;
-&lt;h2 id=&#34;どうやってつくった&#34;&gt;どうやってつくった？&lt;/h2&gt;
+&lt;h2 id="どうやってつくった"&gt;どうやってつくった？&lt;/h2&gt;
 &lt;p&gt;Hugo + PaperMod&lt;br&gt;
 Hugoはカスタムしやすいので良いですね。わからなければAIに聞けばいいし。&lt;/p&gt;
-&lt;h2 id=&#34;主なカスタム内容備忘録&#34;&gt;主なカスタム内容(備忘録)&lt;/h2&gt;
+&lt;h2 id="主なカスタム内容備忘録"&gt;主なカスタム内容(備忘録)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;はてなブックマークシェアボタン&lt;/li&gt;
 &lt;li&gt;Zenn風著者ブロック(記事下)&lt;/li&gt;
 &lt;li&gt;著者アイコン&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;くらいだっけな…？&lt;/p&gt;
-&lt;h2 id=&#34;デプロイ&#34;&gt;デプロイ&lt;/h2&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ブログつくってて&lt;br&gt;ローカル→GitHub→GitHub Action→ホスティングサーバー&lt;br&gt;と思ったけど、GitHub Action書きたくないので&lt;br&gt;&lt;br&gt;ローカル→GitHub &amp;amp;&amp;amp;&lt;br&gt;ローカル→SSH→ホスティングサーバーからgit pull&lt;br&gt;をdeploy\.shに書いて自動化でよさげ&lt;br&gt;&lt;br&gt;GitHub経由する意味があまりないのは気のせいなはず&lt;/p&gt;&amp;mdash; びーぐる (@beagle_dog_inu) &lt;a href=&#34;https://twitter.com/beagle_dog_inu/status/1992951526885900429?ref_src=twsrc%5Etfw&#34;&gt;November 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
+&lt;h2 id="デプロイ"&gt;デプロイ&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;ブログつくってて&lt;br&gt;ローカル→GitHub→GitHub Action→ホスティングサーバー&lt;br&gt;と思ったけど、GitHub Action書きたくないので&lt;br&gt;&lt;br&gt;ローカル→GitHub &amp;amp;&amp;amp;&lt;br&gt;ローカル→SSH→ホスティングサーバーからgit pull&lt;br&gt;をdeploy\.shに書いて自動化でよさげ&lt;br&gt;&lt;br&gt;GitHub経由する意味があまりないのは気のせいなはず&lt;/p&gt;&amp;mdash; びーぐる (@beagle_dog_inu) &lt;a href="https://twitter.com/beagle_dog_inu/status/1992951526885900429?ref_src=twsrc%5Etfw"&gt;November 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 &lt;p&gt;サーバーを移転する可能性はゼロではないので、やはりGitHubにあげておくのは正解かと。&lt;/p&gt;
-&lt;h2 id=&#34;今後の予定&#34;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id="今後の予定"&gt;今後の予定&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Aboutをつくる&lt;/li&gt;
 &lt;li&gt;Projectsをつくる&lt;/li&gt;
 &lt;li&gt;フォントや行間の調整&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://blog.beagleworks.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.beagleworks.net/about/</guid>
-      <description>about</description>
-    </item>
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item><item><title>About</title><link>https://blog.beagleworks.net/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/about/</guid><description>about</description></item></channel></rss>
