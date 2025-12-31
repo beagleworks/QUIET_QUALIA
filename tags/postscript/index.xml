@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postscript on QUIET QUALIA</title>
+    <link>http://localhost:1313/tags/postscript/</link>
+    <description>Recent content in Postscript on QUIET QUALIA</description>
+    <image>
+      <title>QUIET QUALIA</title>
+      <url>http://localhost:1313/OGB_QUIET_QUALIA.png</url>
+      <link>http://localhost:1313/OGB_QUIET_QUALIA.png</link>
+    </image>
+    <generator>Hugo -- 0.153.5</generator>
+    <language>ja-JP</language>
+    <copyright>2025 Beagle Works</copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 20:43:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/postscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>デバイス間テキスト共有サービスSetsunaをリリースして</title>
+      <link>http://localhost:1313/posts/0008/</link>
+      <pubDate>Wed, 31 Dec 2025 20:43:04 +0900</pubDate>
+      <guid>http://localhost:1313/posts/0008/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
