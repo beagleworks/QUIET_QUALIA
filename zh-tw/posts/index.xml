@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on QUIET QUALIA</title><link>https://blog.beagleworks.net/zh-tw/posts/</link><description>Recent content in Posts on QUIET QUALIA</description><image><title>QUIET QUALIA</title><url>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</url><link>https://blog.beagleworks.net/OGB_QUIET_QUALIA.png</link></image><generator>Hugo -- 0.157.0</generator><language>zh-TW</language><copyright>2025 Beagle Works</copyright><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.beagleworks.net/zh-tw/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>網站</title><link>https://blog.beagleworks.net/zh-tw/posts/0001/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/posts/0001/</guid><description>&lt;h2 id="網站"&gt;網站…？&lt;/h2&gt;
+&lt;p&gt;是的。&lt;br&gt;
+因為技術文章都寫在Zenn上，所以這裡就放一些不適合放在那裡的內容。&lt;/p&gt;
+&lt;h2 id="quiet-qualia"&gt;QUIET QUALIA&lt;/h2&gt;
+&lt;p&gt;這是網站的名稱。&lt;br&gt;
+應該沒有什麼深層含義。大概。&lt;/p&gt;
+&lt;h2 id="怎麼建的"&gt;怎麼建的？&lt;/h2&gt;
+&lt;p&gt;Hugo + PaperMod&lt;br&gt;
+Hugo很容易客製化，這點很棒。不懂的話問AI就好了。&lt;/p&gt;
+&lt;h2 id="主要客製化內容備忘錄"&gt;主要客製化內容（備忘錄）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hatena Bookmark分享按鈕&lt;/li&gt;
+&lt;li&gt;Zenn風格作者區塊（文章下方）&lt;/li&gt;
+&lt;li&gt;作者圖示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大概就這些了吧…？&lt;/p&gt;
+&lt;h2 id="部署"&gt;部署&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;ブログつくってて&lt;br&gt;ローカル→GitHub→GitHub Action→ホスティングサーバー&lt;br&gt;と思ったけど、GitHub Action書きたくないので&lt;br&gt;&lt;br&gt;ローカル→GitHub &amp;amp;&amp;amp;&lt;br&gt;ローカル→SSH→ホスティングサーバーからgit pull&lt;br&gt;をdeploy\.shに書いて自動化でよさげ&lt;br&gt;&lt;br&gt;GitHub経由する意味があまりないのは気のせいなはず&lt;/p&gt;&amp;mdash; びーぐる (@beagle_dog_inu) &lt;a href="https://twitter.com/beagle_dog_inu/status/1992951526885900429?ref_src=twsrc%5Etfw"&gt;November 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;p&gt;畢竟有可能會搬遷伺服器，所以放在GitHub上果然是正確的選擇。&lt;/p&gt;
+&lt;h2 id="今後的計畫"&gt;今後的計畫&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;建立About頁面&lt;/li&gt;
+&lt;li&gt;建立Projects頁面&lt;/li&gt;
+&lt;li&gt;調整字體和行距&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
