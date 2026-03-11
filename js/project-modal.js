@@ -8,6 +8,7 @@
   const closeBtn = modal.querySelector('.modal-close');
   const modalImg = modal.querySelector('.modal-img');
   const modalTitle = modal.querySelector('.modal-title');
+  const modalDate = modal.querySelector('.modal-date');
   const modalDesc = modal.querySelector('.modal-desc');
   const modalTech = modal.querySelector('.modal-tech');
   const modalBody = modal.querySelector('.modal-body');
@@ -28,6 +29,7 @@
     modalImg.src = img || '';
     modalImg.alt = title;
     modalTitle.textContent = title;
+    modalDate.textContent = card.dataset.date || '';
     modalDesc.textContent = desc;
 
     // Set tech tags
