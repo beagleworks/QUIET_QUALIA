@@ -21,7 +21,7 @@
     const img = card.dataset.img;
     const tech = JSON.parse(card.dataset.tech || '[]');
 
-    // Get content from template
+    // Get content from template (search both views)
     const template = document.getElementById('content-' + id);
     const content = template ? template.innerHTML : '';
 
@@ -57,22 +57,27 @@
     document.body.classList.remove('modal-open');
   }
 
-  // Event: Click on card
-  document.querySelectorAll('.project-card').forEach(function(card) {
-    card.addEventListener('click', function(e) {
-      // Don't open modal if clicking a link
-      if (e.target.closest('a')) return;
-      openModal(card);
-    });
+  // Bind card events (works for both views)
+  function bindCards() {
+    document.querySelectorAll('.project-card').forEach(function(card) {
+      if (card.dataset.bound) return;
+      card.dataset.bound = '1';
 
-    // Keyboard support
-    card.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
+      card.addEventListener('click', function(e) {
+        if (e.target.closest('a')) return;
         openModal(card);
-      }
+      });
+
+      card.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          openModal(card);
+        }
+      });
     });
-  });
+  }
+
+  bindCards();
 
   // Event: Close button
   closeBtn.addEventListener('click', closeModal);
@@ -90,5 +95,27 @@
   // Prevent modal container clicks from closing
   modal.querySelector('.modal-container').addEventListener('click', function(e) {
     e.stopPropagation();
+  });
+
+  // View toggle
+  var viewBtns = document.querySelectorAll('.view-btn');
+  var viewCategory = document.getElementById('view-category');
+  var viewTimeline = document.getElementById('view-timeline');
+
+  viewBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var view = btn.dataset.view;
+
+      viewBtns.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      if (view === 'category') {
+        viewCategory.classList.remove('view-hidden');
+        viewTimeline.classList.add('view-hidden');
+      } else {
+        viewCategory.classList.add('view-hidden');
+        viewTimeline.classList.remove('view-hidden');
+      }
+    });
   });
 })();
