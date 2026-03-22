@@ -26,7 +26,7 @@
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;Author avatar display: created home_info.html to show avatar image on the homepage&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>MyShorui</title><link>https://blog.beagleworks.net/en/projects/dev_0009/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/dev_0009/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>MyShorui</title><link>https://blog.beagleworks.net/en/projects/dev_0010/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/dev_0010/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;A tool for generating invoice PDFs that comply with Japanese business customs.&lt;br&gt;
 Supports the Qualified Invoice System (適格請求書等保存方式).&lt;/p&gt;</description></item><item><title>Codex Meetup Tokyo #1</title><link>https://blog.beagleworks.net/en/projects/speech_0003/</link><pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/speech_0003/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Gave a lightning talk at Codex Meetup Tokyo #1, held on March 19, 2026.&lt;br&gt;
@@ -44,11 +44,14 @@ The talk was titled &amp;ldquo;Codex&amp;rsquo;s Strengths Through Spec-Driven D
 &lt;div class="link-card-title"&gt;Codex Meetup Tokyo #1&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://aiau.connpass.com/event/384679/&lt;/div&gt;
 &lt;/div&gt;
-&lt;/a&gt;</description></item><item><title>MyKaikei</title><link>https://blog.beagleworks.net/en/projects/dev_0008/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/dev_0008/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;/a&gt;</description></item><item><title>MyKaikei</title><link>https://blog.beagleworks.net/en/projects/dev_0009/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/dev_0009/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;A tool for managing and generating the ledgers and financial statements required for blue-form tax filing as a sole proprietor.&lt;br&gt;
 When you describe a transaction, it determines the account, sub-account, and consumption tax category, then appends the entry to the journal.&lt;br&gt;
 Journal entries (creating bookkeeping records) can also be delegated to Claude or other coding agents, enabling semi-automated daily bookkeeping.&lt;br&gt;
-It also generates financial statements from the journal to support year-end tax return preparation.&lt;/p&gt;</description></item><item><title>Vibe Coding Feature from Software Design Feb Issue</title><link>https://blog.beagleworks.net/en/projects/speech_0002/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/speech_0002/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+It also generates financial statements from the journal to support year-end tax return preparation.&lt;/p&gt;</description></item><item><title>BeagleOn</title><link>https://blog.beagleworks.net/en/projects/dev_0008/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/dev_0008/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;A project that includes an Agent Skill for auto-generating presentation slides using a coding agent.&lt;br&gt;
+It can create several slide variations based on knowledge and themes.&lt;br&gt;
+Originally created for #aimeetup &amp;ldquo;Show Off Your Slide Creation Tools &amp;amp; Skills,&amp;rdquo; it has since been used in practice for the Codex Meetup Tokyo #1 presentation.&lt;/p&gt;</description></item><item><title>Vibe Coding Feature from Software Design Feb Issue</title><link>https://blog.beagleworks.net/en/projects/speech_0002/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/en/projects/speech_0002/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Appeared as a panelist at an offline talk session bringing together all five contributors of the lead feature &amp;ldquo;Complete Guide to Vibe Coding&amp;rdquo; from Software Design magazine&amp;rsquo;s February 2026 issue.&lt;br&gt;
 The session was conducted in a free-form format where panelists discussed given topics.&lt;/p&gt;
 &lt;a href="https://wnb.connpass.com/event/383711/" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
