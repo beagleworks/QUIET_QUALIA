@@ -26,7 +26,7 @@
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;作者頭像顯示：新建 home_info.html，在首頁顯示頭像圖片&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>MyShorui</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0010/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0010/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>MyShorui</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0011/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0011/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
 &lt;p&gt;一款符合日本商業慣例的請款單 PDF 生成工具。&lt;br&gt;
 支援發票制度（適格請求書等保存方式）。&lt;/p&gt;</description></item><item><title>Codex Meetup Tokyo #1</title><link>https://blog.beagleworks.net/zh-tw/projects/speech_0003/</link><pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/speech_0003/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
 &lt;p&gt;於 2026 年 3 月 19 日舉辦的 Codex Meetup Tokyo #1 進行了閃電演講。&lt;br&gt;
@@ -44,11 +44,11 @@
 &lt;div class="link-card-title"&gt;Codex Meetup Tokyo #1&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://aiau.connpass.com/event/384679/&lt;/div&gt;
 &lt;/div&gt;
-&lt;/a&gt;</description></item><item><title>MyKaikei</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0009/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0009/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+&lt;/a&gt;</description></item><item><title>MyKaikei</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0010/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0010/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
 &lt;p&gt;用於管理和生成個人事業主青色申報所需的帳簿與決算書的工具。&lt;br&gt;
 只要告知交易內容，即可自動判斷會計科目、輔助科目與消費稅區分，並追加至分錄帳。&lt;br&gt;
 分錄帳的記帳（建立分錄）也可委託 Claude 或其他 Coding Agent 處理，實現日常記帳的半自動化。&lt;br&gt;
-同時支援從分錄帳生成決算書，用於年度末確定申告文件的製作。&lt;/p&gt;</description></item><item><title>BeagleOn</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0008/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0008/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+同時支援從分錄帳生成決算書，用於年度末確定申告文件的製作。&lt;/p&gt;</description></item><item><title>BeagleOn</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0009/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0009/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
 &lt;p&gt;一個包含 Agent Skill 的專案，可利用程式編寫代理自動生成演講投影片。&lt;br&gt;
 能夠根據知識庫與主題建立多種不同版本的投影片。&lt;br&gt;
 最初為 #aimeetup「展示自製投影片製作工具與技能」活動所製作，之後實際用於 Codex Meetup Tokyo #1 的演講投影片。&lt;/p&gt;</description></item><item><title>VibeCoding 特集 from SoftwareDesign 2月號</title><link>https://blog.beagleworks.net/zh-tw/projects/speech_0002/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/speech_0002/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
@@ -59,6 +59,15 @@
 &lt;div class="link-card-content"&gt;
 &lt;div class="link-card-title"&gt;VibeCoding 特集 from SoftwareDesign 2月號&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://wnb.connpass.com/event/383711/&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;</description></item><item><title>Koedit</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0008/</link><pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0008/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+&lt;p&gt;「用說的就能修改的語音輸入應用程式」&lt;br&gt;
+一款可透過語音輸入文字，也能透過語音進行編輯的桌面應用程式。&lt;br&gt;
+為 #aimeetup「展示自製語音輸入應用程式」活動所製作。&lt;/p&gt;
+&lt;a href="https://github.com/beagleworks/koedit" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
+&lt;div class="link-card-content"&gt;
+&lt;div class="link-card-title"&gt;Koedit - GitHub&lt;/div&gt;
+&lt;div class="link-card-url"&gt;https://github.com/beagleworks/koedit&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;</description></item><item><title>cxreset</title><link>https://blog.beagleworks.net/zh-tw/projects/dev_0007/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>https://blog.beagleworks.net/zh-tw/projects/dev_0007/</guid><description>&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
 &lt;p&gt;用於 statusline 的腳本，可顯示 Codex 的 5h/7day 配額使用量，以及距離重設還剩多少時間。&lt;br&gt;
