@@ -159,6 +159,7 @@ Proposes ideas for using Rules and Skills to prevent Claude Code from writing sl
 &lt;p&gt;The website of Beagle Works.&lt;br&gt;
 Features a blog, portfolio, and more.&lt;/p&gt;
 &lt;a href="https://blog.beagleworks.net/" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
+&lt;div class="link-card-image"&gt;&lt;img src="https://blog.beagleworks.net/projects/dev_0001/OGP_QUIET_QUALIA.png" alt=""&gt;&lt;/div&gt;
 &lt;div class="link-card-content"&gt;
 &lt;div class="link-card-title"&gt;Quiet Qualia&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://blog.beagleworks.net/&lt;/div&gt;

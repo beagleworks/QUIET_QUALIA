@@ -159,6 +159,7 @@ Like 超過 50。&lt;/p&gt;
 &lt;p&gt;Beagle Works 的網站。&lt;br&gt;
 刊載部落格、作品集等內容。&lt;/p&gt;
 &lt;a href="https://blog.beagleworks.net/" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
+&lt;div class="link-card-image"&gt;&lt;img src="https://blog.beagleworks.net/projects/dev_0001/OGP_QUIET_QUALIA.png" alt=""&gt;&lt;/div&gt;
 &lt;div class="link-card-content"&gt;
 &lt;div class="link-card-title"&gt;Quiet Qualia&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://blog.beagleworks.net/&lt;/div&gt;

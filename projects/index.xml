@@ -161,6 +161,7 @@ WindowsアプリケーションとしてC#で開発&lt;/p&gt;
 &lt;p&gt;びーぐる(Beagle Works)のウェブサイト。&lt;br&gt;
 ブログ、ポートフォリオなどを掲載。&lt;/p&gt;
 &lt;a href="https://blog.beagleworks.net/" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
+&lt;div class="link-card-image"&gt;&lt;img src="https://blog.beagleworks.net/projects/dev_0001/OGP_QUIET_QUALIA.png" alt=""&gt;&lt;/div&gt;
 &lt;div class="link-card-content"&gt;
 &lt;div class="link-card-title"&gt;Quiet Qualia&lt;/div&gt;
 &lt;div class="link-card-url"&gt;https://blog.beagleworks.net/&lt;/div&gt;
