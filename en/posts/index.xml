@@ -44,12 +44,7 @@ Personal sites are fun, and when you can use Claude Code for customization, it m
 &lt;li&gt;Gradually update the Projects page content&lt;/li&gt;
 &lt;li&gt;Write articles&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>On Releasing Setsuna, a Cross-Device Text Sharing Service</title><link>https://blog.beagleworks.net/en/posts/0008/</link><pubDate>Wed, 31 Dec 2025 23:11:04 +0900</pubDate><guid>https://blog.beagleworks.net/en/posts/0008/</guid><description>&lt;p&gt;As the title says, I released Setsuna, a cross-device text sharing service, on 12/28.&lt;/p&gt;
-&lt;a href="https://setsuna-text.vercel.app/" target="_blank" rel="noopener noreferrer" class="link-card"&gt;
-&lt;div class="link-card-content"&gt;
-&lt;div class="link-card-title"&gt;Setsuna - Real-time Text Sharing&lt;/div&gt;
-&lt;div class="link-card-url"&gt;https://setsuna-text.vercel.app/&lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
+&lt;p&gt;(The sample demo has been taken down.)&lt;/p&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;デバイス間テキスト共有アプリSetsunaをリリースしました。&lt;a href="https://t.co/FNbVd8ohHO"&gt;https://t.co/FNbVd8ohHO&lt;/a&gt;&lt;a href="https://t.co/8VPNjyX0K7"&gt;https://t.co/8VPNjyX0K7&lt;/a&gt;&lt;br&gt;&lt;br&gt;昔自分用につくって公開していたOSSを、Claude Codeに全面バックアップしてもらってリバイバルしたものです。…&lt;/p&gt;&amp;mdash; びーぐる (@beagle_dog_inu) &lt;a href="https://twitter.com/beagle_dog_inu/status/2005091648435618281?ref_src=twsrc%5Etfw"&gt;December 28, 2025&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 &lt;p&gt;(Since it was abbreviated, I&amp;rsquo;ll write it out here)&lt;br&gt;
