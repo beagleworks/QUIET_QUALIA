@@ -48,7 +48,7 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
 この反省の機会を活かせる次の機会があるなら、良い登壇ができるよう全力で準備して望む所存です。">
 <meta name="author" content="びーぐる">
 <link rel="canonical" href="https://blog.beagleworks.net/posts/0012/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9c1e03002f26b05c5d0b9c1596216acd5884c70549653a0cf4531118259620db.css" integrity="sha256-nB4DAC8msFxdC5wVliFqzViExwVJZToM9FMRGCWWINs=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9656a57f09de2f7797df720def2f1983a4868e80cae93e1ab5d4c61446e02957.css" integrity="sha256-llalfwneL3eX33IN7y8Zg6SGjoDK6T4atdTGFEbgKVc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://blog.beagleworks.net/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://blog.beagleworks.net/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.beagleworks.net/favicon-32x32.png">
@@ -88,12 +88,6 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
 
             .toc {
                 background: var(--entry);
-            }
-        }
-
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
             }
         }
 
@@ -227,17 +221,17 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
 
 <body class="list" id="top">
     <header class="header">
-    <nav class="nav">
+    <nav class="header-nav">
         <div class="logo">
             <a href="https://blog.beagleworks.net/" accesskey="h" title="QUIET QUALIA (Alt + H)">QUIET QUALIA</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <circle cx="12" cy="12" r="5"></circle>
@@ -250,8 +244,8 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
                         <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
-                </button>
-                    <ul class="lang-switch"><li>|</li>
+                </button><span class="nav-sep">|</span>
+                    <ul class="lang-menu">
                         <li>
                             <a href="https://blog.beagleworks.net/en/" title="English"
                                 aria-label="English">English</a>
@@ -263,7 +257,7 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
                     </ul>
             </div>
         </div>
-        <ul id="menu">
+        <ul id="menu" class="menu">
             <li>
                 <a href="https://blog.beagleworks.net/" title="HOME">
                     <span>HOME</span>
@@ -315,14 +309,14 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
       >
     <span class="post-author-name">びーぐる</span>
   </span>&nbsp;|&nbsp;<span>言語:</span>
-<ul class="i18n_list">
-    <li>
-        <a href="https://blog.beagleworks.net/en/posts/0012/">English</a>
-    </li>
-    <li>
-        <a href="https://blog.beagleworks.net/zh-tw/posts/0012/">繁體中文</a>
-    </li>
-</ul></div>
+    <ul class="i18n_list">
+        <li>
+            <a href="https://blog.beagleworks.net/en/posts/0012/">English</a>
+        </li>
+        <li>
+            <a href="https://blog.beagleworks.net/zh-tw/posts/0012/">繁體中文</a>
+        </li>
+    </ul></div>
 
 
 </div>
@@ -335,8 +329,8 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
   </header> 
   <div class="post-content"><p><strong>Codex Meetup Tokyo #1</strong> にLT登壇してきました。</p>
 <p>反省会と称している通り、内容はお察し通りかと思いますが。</p>
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日はCodex Meetup Tokyo #1 で登壇させていただきまして本当にありがとうございます。<br><br>今回は内容面でも声の調子でも課題が残り、多くの反省を得る登壇となりました。…</p>&mdash; びーぐる / Beagle Works (@beagle_dog_inu) <a href="https://twitter.com/beagle_dog_inu/status/2034904280822686044?ref_src=twsrc%5Etfw">March 20, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日はCodex Meetup Tokyo #1 で登壇させていただきまして本当にありがとうございます。<br><br>今回は内容面でも声の調子でも課題が残り、多くの反省を得る登壇となりました。…</p>&mdash; びーぐる / Beagle Works (@beagle_dog_inu) <a href="https://x.com/beagle_dog_inu/status/2034904280822686044?ref_src=twsrc%5Etfw">March 20, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 <p>(省略されている部分を一部記載します)</p>
@@ -460,7 +454,6 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
 <nav class="paginav">
   <a class="next" href="https://blog.beagleworks.net/posts/0011/">
     <span class="title">次へ »</span>
-    <br>
     <span>2026年のサイト更新3</span>
   </a>
 </nav>
@@ -474,15 +467,19 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
   プライバシーポリシー
 </a> · 
 
+    
+    
     <span>
         Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
     </svg>
 </a>
 
@@ -521,14 +518,13 @@ Codexを利用した仕様駆動開発について、一部の方にはある程
 
 </script>
 <script>
-    var mybutton = document.getElementById("top-link");
+    var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
         } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
+            toplink.classList.add("hidden");
         }
     };
 

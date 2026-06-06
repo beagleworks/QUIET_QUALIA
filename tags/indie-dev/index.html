@@ -10,7 +10,7 @@
 <meta name="description" content="びーぐる(フリーランスエンジニア・AI愛好家)のブログ・ポートフォリオ">
 <meta name="author" content="びーぐる">
 <link rel="canonical" href="https://blog.beagleworks.net/tags/indie-dev/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9c1e03002f26b05c5d0b9c1596216acd5884c70549653a0cf4531118259620db.css" integrity="sha256-nB4DAC8msFxdC5wVliFqzViExwVJZToM9FMRGCWWINs=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9656a57f09de2f7797df720def2f1983a4868e80cae93e1ab5d4c61446e02957.css" integrity="sha256-llalfwneL3eX33IN7y8Zg6SGjoDK6T4atdTGFEbgKVc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://blog.beagleworks.net/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://blog.beagleworks.net/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.beagleworks.net/favicon-32x32.png">
@@ -54,12 +54,6 @@
             }
         }
 
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
-
     </style>
 </noscript>
 <script>
@@ -91,17 +85,17 @@
 
 <body class="list" id="top">
     <header class="header">
-    <nav class="nav">
+    <nav class="header-nav">
         <div class="logo">
             <a href="https://blog.beagleworks.net/" accesskey="h" title="QUIET QUALIA (Alt + H)">QUIET QUALIA</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <circle cx="12" cy="12" r="5"></circle>
@@ -114,8 +108,8 @@
                         <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
-                </button>
-                    <ul class="lang-switch"><li>|</li>
+                </button><span class="nav-sep">|</span>
+                    <ul class="lang-menu">
                         <li>
                             <a href="https://blog.beagleworks.net/en/" title="English"
                                 aria-label="English">English</a>
@@ -127,7 +121,7 @@
                     </ul>
             </div>
         </div>
-        <ul id="menu">
+        <ul id="menu" class="menu">
             <li>
                 <a href="https://blog.beagleworks.net/" title="HOME">
                     <span>HOME</span>
@@ -178,13 +172,13 @@
 (サンプルデモの公開は終了しました。)
 デバイス間テキスト共有アプリSetsunaをリリースしました。https://t.co/FNbVd8ohHOhttps://t.co/8VPNjyX0K7
 昔自分用につくって公開していたOSSを、Claude Codeに全面バックアップしてもらってリバイバルしたものです。…
-— びーぐる (@beagle_dog_inu) December 28, 2025 (省略されているので記載しました)
+— びーぐる / Beagle Works (@beagle_dog_inu) December 28, 2025 (省略されているので記載しました)
 「昔自分用につくって公開していたOSSを、Claude Codeに全面バックアップしてもらってリバイバルしたものです。
 今となっては同じようなものが多数あり珍しくもないですが、勉強のために一度今の技術で作り直してみたくなったのでリリースしました。」
 デバイス間テキスト共有サービスSetsunahttps://t.co/hjaJEAeu8ehttps://t.co/8VPNjyX0K7
 バージョンは1.3.3になり、大体作りたい機能の開発が終わりました。
 自力だと体感1ヶ月程度の実装が、Claude Codeのおかげで丸2日くらいで終わりました。確かに作業効率10倍くらいにはなってそうです。
-— びーぐる (@beagle_dog_inu) December 29, 2025 元は（確か）Node &#43; Express &#43; Socket.IOとVue⋯のような技術スタックで作成した同名の個人開発プロジェクトでしたが、細かいバグが修正できず、手が掛けられないのに不完全なものを放置するのも⋯ということで消去しました。
+— びーぐる / Beagle Works (@beagle_dog_inu) December 29, 2025 元は（確か）Node &#43; Express &#43; Socket.IOとVue⋯のような技術スタックで作成した同名の個人開発プロジェクトでしたが、細かいバグが修正できず、手が掛けられないのに不完全なものを放置するのも⋯ということで消去しました。
 Claude Codeのお陰で、当時作っていたものよりも、大きく品質が向上し、デザインもよく、保守性も高いものができあがりました。そして何よりも実装の速度。27日に作り始め、28日にVer1.0.0をリリース、29日のVer1.3.3リリースをもって予定していた機能&#43;αの実装を完了しました。
 このレベルのものは、もはや(コーディングフェーズでは特に)人間の出番ではないな⋯という感じがします。
 良い機能が思いついたら継続的に改修を続けていきたいと思います。
@@ -200,14 +194,14 @@ Claude Codeのお陰で、当時作っていたものよりも、大きく品質
       >
     <span class="post-author-name">びーぐる</span>
   </span>&nbsp;|&nbsp;<span>言語:</span>
-<ul class="i18n_list">
-    <li>
-        <a href="https://blog.beagleworks.net/en/posts/0008/">English</a>
-    </li>
-    <li>
-        <a href="https://blog.beagleworks.net/zh-tw/posts/0008/">繁體中文</a>
-    </li>
-</ul></div>
+    <ul class="i18n_list">
+        <li>
+            <a href="https://blog.beagleworks.net/en/posts/0008/">English</a>
+        </li>
+        <li>
+            <a href="https://blog.beagleworks.net/zh-tw/posts/0008/">繁體中文</a>
+        </li>
+    </ul></div>
 </footer>
   <a class="entry-link" aria-label="post link to デバイス間テキスト共有サービスSetsunaをリリースして" href="https://blog.beagleworks.net/posts/0008/"></a>
 </article>
@@ -219,15 +213,19 @@ Claude Codeのお陰で、当時作っていたものよりも、大きく品質
   プライバシーポリシー
 </a> · 
 
+    
+    
     <span>
         Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
     </svg>
 </a>
 
@@ -266,14 +264,13 @@ Claude Codeのお陰で、当時作っていたものよりも、大きく品質
 
 </script>
 <script>
-    var mybutton = document.getElementById("top-link");
+    var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
         } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
+            toplink.classList.add("hidden");
         }
     };
 

@@ -2,7 +2,7 @@
 <html lang="zh-tw" dir="auto" data-theme="auto">
 
 <head>
-	<meta name="generator" content="Hugo 0.159.0"><meta charset="utf-8">
+	<meta name="generator" content="Hugo 0.162.1"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -11,7 +11,7 @@
 <meta name="description" content="Beagle（自由工程師・AI愛好者）的部落格與作品集">
 <meta name="author" content="Beagle">
 <link rel="canonical" href="https://blog.beagleworks.net/zh-tw/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9c1e03002f26b05c5d0b9c1596216acd5884c70549653a0cf4531118259620db.css" integrity="sha256-nB4DAC8msFxdC5wVliFqzViExwVJZToM9FMRGCWWINs=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9656a57f09de2f7797df720def2f1983a4868e80cae93e1ab5d4c61446e02957.css" integrity="sha256-llalfwneL3eX33IN7y8Zg6SGjoDK6T4atdTGFEbgKVc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://blog.beagleworks.net/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://blog.beagleworks.net/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.beagleworks.net/favicon-32x32.png">
@@ -53,12 +53,6 @@
 
             .toc {
                 background: var(--entry);
-            }
-        }
-
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
             }
         }
 
@@ -106,17 +100,17 @@
 
 <body class="list home" id="top">
     <header class="header">
-    <nav class="nav">
+    <nav class="header-nav">
         <div class="logo">
             <a href="https://blog.beagleworks.net/zh-tw/" accesskey="h" title="QUIET QUALIA (Alt + H)">QUIET QUALIA</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
                         <circle cx="12" cy="12" r="5"></circle>
@@ -129,8 +123,8 @@
                         <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
-                </button>
-                    <ul class="lang-switch"><li>|</li>
+                </button><span class="nav-sep">|</span>
+                    <ul class="lang-menu">
                         <li>
                             <a href="https://blog.beagleworks.net/" title="日本語"
                                 aria-label="日本語">日本語</a>
@@ -142,7 +136,7 @@
                     </ul>
             </div>
         </div>
-        <ul id="menu">
+        <ul id="menu" class="menu">
             <li>
                 <a href="https://blog.beagleworks.net/zh-tw/" title="首頁">
                     <span class="active">首頁</span>
@@ -197,14 +191,14 @@
       >
     <span class="post-author-name">びーぐる</span>
   </span>&nbsp;|&nbsp;<span>語言:</span>
-<ul class="i18n_list">
-    <li>
-        <a href="https://blog.beagleworks.net/posts/0002/">日本語</a>
-    </li>
-    <li>
-        <a href="https://blog.beagleworks.net/en/posts/0002/">English</a>
-    </li>
-</ul></div>
+    <ul class="i18n_list">
+        <li>
+            <a href="https://blog.beagleworks.net/posts/0002/">日本語</a>
+        </li>
+        <li>
+            <a href="https://blog.beagleworks.net/en/posts/0002/">English</a>
+        </li>
+    </ul></div>
 </footer>
   <a class="entry-link" aria-label="post link to Day 2" href="https://blog.beagleworks.net/zh-tw/posts/0002/"></a>
 </article>
@@ -229,7 +223,7 @@ Hugo很容易客製化，這點很棒。不懂的話問AI就好了。
 ローカル→SSH→ホスティングサーバーからgit pull
 をdeploy\.shに書いて自動化でよさげ
 GitHub経由する意味があまりないのは気のせいなはず
-— びーぐる (@beagle_dog_inu) November 24, 2025 畢竟有可能會搬遷伺服器，所以放在GitHub上果然是正確的選擇。
+— びーぐる / Beagle Works (@beagle_dog_inu) November 24, 2025 畢竟有可能會搬遷伺服器，所以放在GitHub上果然是正確的選擇。
 今後的計畫 建立About頁面 建立Projects頁面 調整字體和行距 </p>
   </div>
   <footer class="entry-footer"><div class="post-meta-line"><span title='2025-11-25 00:00:00 &#43;0000 UTC'>2025/11/25</span>
@@ -242,14 +236,14 @@ GitHub経由する意味があまりないのは気のせいなはず
       >
     <span class="post-author-name">びーぐる</span>
   </span>&nbsp;|&nbsp;<span>語言:</span>
-<ul class="i18n_list">
-    <li>
-        <a href="https://blog.beagleworks.net/posts/0001/">日本語</a>
-    </li>
-    <li>
-        <a href="https://blog.beagleworks.net/en/posts/0001/">English</a>
-    </li>
-</ul></div>
+    <ul class="i18n_list">
+        <li>
+            <a href="https://blog.beagleworks.net/posts/0001/">日本語</a>
+        </li>
+        <li>
+            <a href="https://blog.beagleworks.net/en/posts/0001/">English</a>
+        </li>
+    </ul></div>
 </footer>
   <a class="entry-link" aria-label="post link to 網站" href="https://blog.beagleworks.net/zh-tw/posts/0001/"></a>
 </article>
@@ -268,15 +262,19 @@ GitHub経由する意味があまりないのは気のせいなはず
   隱私權政策
 </a> · 
 
+    
+    
     <span>
         Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
     </svg>
 </a>
 
@@ -315,14 +313,13 @@ GitHub経由する意味があまりないのは気のせいなはず
 
 </script>
 <script>
-    var mybutton = document.getElementById("top-link");
+    var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
         } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
+            toplink.classList.add("hidden");
         }
     };
 
